@@ -1,8 +1,9 @@
 # House-Automation
+These are the steps required for preparing data, training the module and testing it. This module can detect different hand signs which each mean a different house item, like turning on or off the lights/fan or moving the curtains up or down.
 
- Add short description of project here > 
+![Lights Working](https://github.com/jpgarciao/House-Automation/assets/138504441/6a14b28d-9e8a-4b32-bced-c62ea8349ad1)
 
-![add image descrition here](direct image link here)
+This image shows the lights task working.
 
 ## The Algorithm
 
@@ -16,3 +17,4 @@ Add an explanation of the algorithm and how it works. Make sure to include detai
 [View a video explanation here](video link)
 
 Link for using different text types in the readme file https://www.markdownguide.org/cheat-sheet/
+![Lights Working](https://github.com/jpgarciao/House-Automation/assets/138504441/6a14b28d-9e8a-4b32-bced-c62ea8349ad1)
