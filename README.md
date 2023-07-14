@@ -34,6 +34,4 @@ Here is how it should look:
 ![Fan Working](https://github.com/jpgarciao/House-Automation/assets/138504441/dd68ccf8-3ac1-47a2-8d82-0d6d696e39f1)
 
 
-[View a video explanation here](video link)
-
-Link for using different text types in the readme file https://www.markdownguide.org/cheat-sheet/
+[View a video explanation here](https://www.youtube.com/watch?v=cay_tClT7ww)
